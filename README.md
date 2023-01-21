@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning c#
 - 💞️ I’m looking to collaborate on a game project
-- 📫 How to reach me : insta ; mohamed_iablen OR 
+- 📫 How to reach me? : insta ; mohamed_iablen OR 
                                 email ; medomarbenali12@gmail.com
  
 <!---

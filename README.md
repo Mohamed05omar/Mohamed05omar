@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @Mohamed05omar
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning c#
-- 💞️ I’m looking to collaborate on a game project
+- 👋 Hi, I’m @Mohamed omar;
+- 👀 I’m interested in iot and embedded systems; 
+- 🌱 I’m currently learning kicad;
 - 📫 How to reach me? : insta ; mohamed_iablen OR 
                                 email ; medomarbenali12@gmail.com
  
